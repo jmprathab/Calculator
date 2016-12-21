@@ -6,6 +6,10 @@ An Android calculator application with some very basic functionality
 
 This application runs on Android API level 21 (Lollipop) and above
 
+### Screenshot
+<img src="https://cloud.githubusercontent.com/assets/11979066/21399469/d0f3706c-c7d1-11e6-94ba-bff10bc52102.png" width="400"/>
+
+
 ### Installing
 
 To download the application
